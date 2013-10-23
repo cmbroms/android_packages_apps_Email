@@ -37,7 +37,7 @@
             android:id="@+id/attachment_container"
             android:layout_width="48dip"
             android:layout_height="48dip"
-            android:background="#e5e5e5"
+            android:background="#ffe5e5e5"
             >
             <ImageView
                 android:id="@+id/attachment_icon"
@@ -63,7 +63,7 @@
             android:layout_toRightOf="@+id/attachment_container"
             android:layout_marginLeft="16dip"
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:textColor="#333333"
+            android:textColor="#ff333333"
             android:singleLine="true"
             android:ellipsize="middle"
             />

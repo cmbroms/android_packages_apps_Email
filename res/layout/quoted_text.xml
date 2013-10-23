@@ -50,7 +50,7 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="2dip"
-        android:background="#babebe"
+        android:background="#ffbabebe"
         android:layout_below="@id/quoted_text_bar"
         android:id="@+id/divider_bar" />
 

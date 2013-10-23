@@ -30,7 +30,7 @@
         android:paddingRight="78dip"
         android:gravity="left|center_vertical"
         android:textSize="16dip"
-        android:textColor="#000"
+        android:textColor="#ff000000"
         android:singleLine="true"
         android:ellipsize="end"
         android:background="@color/error_bar_background"
