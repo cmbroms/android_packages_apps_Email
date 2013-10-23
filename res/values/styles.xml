@@ -228,7 +228,7 @@
         <item name="android:textColor">#ffbfbfbf</item>
         <item name="android:textSize">12sp</item>
     </style>
-    </style>
+
 	<!-- Added BJR -->
     <style name="RecipientEditTextViewStyle" parent="@style/RecipientEditTextView">
         <item name="android:gravity">bottom</item>
